@@ -18,6 +18,6 @@ https://github.com/arunabh15091989/Iris-Kmeans
 * ### Classification of Haptik chatbot messages using nltk:
 https://github.com/commit-live-students/haptik_challenge_A
 
-##Blogs
+## Blogs
 * ### Clustering of Iris Dataset for better classification:
 https://medium.com/@Aruna8h/using-clustering-for-feature-engineering-on-the-iris-dataset-f438366d0b4b
